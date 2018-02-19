@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Aktuarialny</string>
+    <string name="quit">wyjdź</string>
+    <string name="play">start</string>
+    <string name="name">Nazwa użytkownika</string>
+    <string name="question1">Która z poniższych odpowiedzi jest poprawna zakładając, że E(X) jest oczekiwaną dalszą długością trwania życia X-latka?</string>
+    <string name="question2">Które z równań poprawnie definiuje stopę dyskonta DF(T)?</string>
+    <string name="question2_ans1">DF(T) = 1 / (1 + r*T)\ngdzie r to roczna stopa zwrotu</string>
+    <string name="question2_ans2">DF(T) = 1 / (1 + r)^T\ngdzie r to roczna stopa zwrotu</string>
+    <string name="question2_ans3">DF(T) = e^(-rT) \ngdzie r to roczna stopa zwrotu</string>
+    <string name="question2_ans4">DF(T) = 1 / (1 + r/n)^(T*n) \ngdzie r to roczna stopa zwrotu oraz n jest liczbą kapitalizacji w ciągu roku</string>
+    <string name="question3">Co oznacza skrót IRR?</string>
+    <string name="question4">Rozwiń skrót PVFP.</string>
+    <string name="question4_hint">Twoja odpowiedź</string>
+    <string name="question5">Do których z poniższych używany jest Prophet?</string>
+    <string name="question5_ans1">testy profitowe</string>
+    <string name="question5_ans2">projekcje kapitałowe</string>
+    <string name="question5_ans3">tworzenie makr excelowych</string>
+    <string name="question5_ans4">rezerwowanie</string>
+    <string name="question5_ans5">modelowanie aktywów i pasywów</string>
+    <string name="question5_ans6">modelowanie stochastyczne</string>
+    <string name="question5_ans7">zarządzanie ryzykiem</string>
+    <string name="question6">Co oznacza skrót ALS?</string>
+    <string name="question7">Które z poniższych stwierdzeń poprawnie opisuje zachowanie rezerwy matematycznej w czasie?</string>
+    <string name="question7_ans1">Rośnie wraz z czasem trwania polisy.</string>
+    <string name="question7_ans2">Jest taka sama przez cały czas trwania polisy.</string>
+    <string name="question7_ans3">Maleje wraz z czasem trwania polisy.</string>
+    <string name="question7_ans4">Jej trend zmienia się wiele razy w czasie trwania polisy.</string>
+    <string name="submit">zatwierdź</string>
+    <string name="congrats">Gratulujemy zakończenia Quizu Aktuarialnego!</string>
+    <string name="score_message">Twój wynik to:</string>
+    <string name="thx">Dziękujemy za skorzystanie naszej aplikacji. \nMamy nadzieję, że podobała Ci się nasza wspólna podróż</string>
+    <string name="close">wyjdź</string>
+</resources>

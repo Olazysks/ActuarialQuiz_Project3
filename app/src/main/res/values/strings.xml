@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Actuarial Quiz</string>
+    <string name="quit">quit</string>
+    <string name="play">play</string>
+    <string name="name">Username</string>
+    <string name="question1">Which one of below statements is correct assuming that E(X) is the expected life longevity for the person currently at X age?</string>
+    <string name="question1_ans1" translatable="false">E(25) &lt; 25 + E(45)</string>
+    <string name="question1_ans2" translatable="false">E(25) = 25 + E(45)</string>
+    <string name="question1_ans3" translatable="false">E(25) &gt; 25 + E(45)</string>
+    <string name="question2">Which formula correctly captures definition of discount factor DF(T)?</string>
+    <string name="question2_ans1">DF(T) = 1 / (1 + rT)\nwhere r is an annual interest rate</string>
+    <string name="question2_ans2">DF(T) = 1 / (1 + r)&lt;sup&gt;T&lt;/sup&gt; \nwhere r is an annual interest rate</string>
+    <string name="question2_ans3">DF(T) = e&lt;sup&gt;-rT&lt;/sup&gt;  \nwhere r is an annual interest rate</string>
+    <string name="question2_ans4">DF(T) = 1 / (1 + r/n)&lt;sup&gt;Tn&lt;/sup&gt;  \nwhere r is an annual interest rate and n is a number of capitalization periods during one year</string>
+    <string name="question3">What does IRR stand for?</string>
+    <string name="question3_ans1" translatable="false">initial rate of return</string>
+    <string name="question3_ans2" translatable="false">initial risk rate</string>
+    <string name="question3_ans3" translatable="false">internal rate of return</string>
+    <string name="question3_ans4" translatable="false">internal risk rate</string>
+    <string name="question4">Please expand PVFP abbreviation.</string>
+    <string name="question4_hint">Your answer here</string>
+    <string name="question4_correct_ans" translatable="false">Present Value of Future Profits</string>
+    <string name="question5">For which of below can Prophet be used?</string>
+    <string name="question5_ans1">profit testing</string>
+    <string name="question5_ans2">capital projections</string>
+    <string name="question5_ans3">Excel macros creation</string>
+    <string name="question5_ans4">reserving</string>
+    <string name="question5_ans5">asset liability modelling</string>
+    <string name="question5_ans6">stochastic modelling</string>
+    <string name="question5_ans7">risk management</string>
+    <string name="question6">What does ALS stand for?</string>
+    <string name="question6_ans1" translatable="false">Asset Leakage Stochastic</string>
+    <string name="question6_ans2" translatable="false">Asset Leakage Strategy</string>
+    <string name="question6_ans3" translatable="false">Asset Liability Stochastic</string>
+    <string name="question6_ans4" translatable="false">Asset Liability Strategy</string>
+    <string name="question7">Which one of below statements correctly captures mathematical reserve behaviour?</string>
+    <string name="question7_ans1">Increases during the whole time of policy life.</string>
+    <string name="question7_ans2">Stays the same during the whole time of policy life.</string>
+    <string name="question7_ans3">Decreases during the whole time of policy life.</string>
+    <string name="question7_ans4">Changes trend many times during the whole time of policy life.</string>
+    <string name="submit">submit</string>
+    <string name="congrats">congrats on finalizing The Actuarial Quiz!</string>
+    <string name="score_message">Your score is:</string>
+    <string name="thx">Many thanks for using our app. \nHope you enjoyed the journey with us</string>
+    <string name="close">close</string>
+</resources>

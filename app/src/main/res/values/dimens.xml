@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large">50sp</dimen>
+    <dimen name="medium">22sp</dimen>
+    <dimen name="small">16sp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">32dp</dimen>
+    <dimen name="margin_large">54dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+</resources>
